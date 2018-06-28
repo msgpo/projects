@@ -12,7 +12,7 @@ If you have an idea for a project, and want to define it and get others on board
 
 Once you've defined it, make a PR to move the file under [./backlog](./backlog) to be prioritized.
 
-As projects completely, we can pull new projects from ./backlog to [./in-progress](./in-progress).
+As projects complete, we can pull new projects from ./backlog to [./in-progress](./in-progress).
 
 And finally, we can look back (at the end of the year, or when building newsletters, fundraising) at our completed projects in [./done](./done).
 
